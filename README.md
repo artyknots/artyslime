@@ -2,4 +2,4 @@
 
 slime vr project with centralized power delivery through a separate power board
 
-untested, unfinished, use at your own risk
+tested but unfinished, use at your own risk
